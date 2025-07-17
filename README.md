@@ -11,11 +11,11 @@ Aditya Cowsik, Tamra Nebabu, Xiao‑Liang Qi & Surya Ganguli (2024)
 ## Features
 
 - **Phase‑Transition Experiments**  
-  - `token_dynamics.ipynb`: recreates Figure 4 (signal propagation dynamics)  
-  - `gradient_dynamics.ipynb`: recreates Figure 5 (Jacobian spectral analysis)
+  - `phase_diagram_lambda_a.ipynb`: recreates Figure 4 (signal propagation dynamics)  
+  - `phase_diagram_lambda_g.ipynb`: recreates Figure 5 (Jacobian spectral analysis)
 
 - **Trainability Curves**  
-  - `transition_training.ipynb`: reproduces Figure 7 (scaling‑dependent trainability)
+  - `training.ipynb`: reproduces Figure 7 (scaling‑dependent trainability)
 
 ---
 
